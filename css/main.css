@@ -24,7 +24,6 @@ a {
   color: #c0b8b8; }
 
 img {
-  width: 80%;
   height: auto; }
 
 nav,
@@ -79,7 +78,7 @@ h3 {
 header {
   position: fixed;
   top: 0;
-  border-top: 30px solid #343533;
+  background-color: #343533;
   width: 100%; }
 
 .wrapper {
